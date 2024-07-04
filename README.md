@@ -1,14 +1,10 @@
 # Harvard_CS50AI
 This repository serves as a way for me to document my experience
 with the [CS50 Artificial Intelligence class](https://cs50.harvard.edu/ai/2024/).
-Here is my review of the course on **[Medium](https://damirtemir.medium.com/how-to-break-into-ai-harvard-cs50ai-introduction-to-artificial-intelligence-course-review-fe14b78e6575)**
+
 
 Following is just a little description about each of the assignments.
-I do so to keep a thorough documentation on concepts that each assignment employs.
-
-DISCLAIMER: This is internet, so I can't really tell you what to do. 
-However, please consider the fact that this a violation of the [edX Honor Code](https://www.edx.org/edx-terms-service.) to just copy-paste the code. 
-So please consider the sole purpose of this repository is to just hack around. 
+To remember the concepts better, I have also included the code snippets.
 
 ![Certificate](png/CS50AI.png)
 
