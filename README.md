@@ -324,6 +324,7 @@ all possible states like Minimax, but it is much less computationally demanding
         * a sentence that starts with another sentence (the first type) and ends with a conjunction in front of a verb or another sentence
 
 * Third, the task requires a list of noun phrase chunks, which is a noun phrase that does not have other noun phrase within it
+    
     * The context-free grammar rules used in our case do not allow such cases, so it is reasonable to just count the number of noun phrases ([nltk.tree](https://www.nltk.org/_modules/nltk/tree.html) documentation is really helpful)
 
 
@@ -352,4 +353,3 @@ all possible states like Minimax, but it is much less computationally demanding
       a little moist red paint
       the palm
       my hand
-
