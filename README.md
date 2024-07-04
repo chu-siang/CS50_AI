@@ -309,9 +309,6 @@ all possible states like Minimax, but it is much less computationally demanding
 <h2> Week 6: Language </h2>
 
 
-<h2> Week 6: Language </h2>
-
-
 **Parser (Context-Free Grammar)** [see directory](https://github.com/chu-siang/CS50_AI/tree/main/W6_Language/Parser)
 
 * The assignment is about parsing a sentence to determine its structure
