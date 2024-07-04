@@ -1,4 +1,4 @@
-# harvard-CS50AI
+# Harvard_CS50AI
 This repository serves as a way for me to document my experience
 with the [CS50 Artificial Intelligence class](https://cs50.harvard.edu/ai/2024/).
 Here is my review of the course on **[Medium](https://damirtemir.medium.com/how-to-break-into-ai-harvard-cs50ai-introduction-to-artificial-intelligence-course-review-fe14b78e6575)**
